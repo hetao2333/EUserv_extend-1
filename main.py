@@ -13,7 +13,7 @@ PASSWORD = '060913ych'  # 这里填密码
 SCKEY = '' # 这里填Server酱的key，无需推送可不填 示例: SCU646xxxxxxxxdacd6a5dc3f6
 
 # 酷推 https://cp.xuthus.cc
-CoolPush_Skey = ''
+CoolPush_Skey = 'cc21caa95d4a7b1785b47ec16c878d84'
 # 通知类型 CoolPush_MODE的可选项有（默认send）：send[QQ私聊]、group[QQ群聊]、wx[个微]、ww[企微]
 CoolPush_MODE = 'send'
 
